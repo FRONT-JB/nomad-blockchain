@@ -1,0 +1,13 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "description": "blockchain",
+  "main": "index.js",
+  "author": "Genie",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
